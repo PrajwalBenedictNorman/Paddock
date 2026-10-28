@@ -36,3 +36,10 @@ yarn-error.log*
 # Misc
 .DS_Store
 *.pem
+
+
+# Local AI coding tool state 
+apps/server/.agents/
+apps/server/.claude/
+apps/server/.cursor/
+apps/server/.devin/

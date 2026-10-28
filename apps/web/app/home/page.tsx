@@ -1,9 +1,11 @@
+import axios from 'axios';
 
-
-function Home() {
+function Home() { 
   return (
     <div>
-        <h1>This is Home page</h1>
+        <div>
+          <p>Paddock : A testing env for your ai agents </p>
+        </div>
     </div>
   )
 }
